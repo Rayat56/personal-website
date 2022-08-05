@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 100%;    
+}
+h1{
+    font-size: 30px;
+    font-weight: 200;
+}
+p{
+    padding-bottom: 20px;
+    color: dimgray;
+}
+.top{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 900px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.pink{
+    color: rgb(236, 63,121) ;
+    font-weight: 1200;
+    font-size: 40px;
+}
+.give-margin{
+    margin-top: 30%;
+}
+.give-amargin{
+    margin-top: 20%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,rgb(238, 82, 134),rgb(236, 63,121));
+    color: white;
+    border-radius: 5px;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 850px;  
+}
+
+.latest-work{
+    margin-top: 80px;
+    text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   height: 100px;
+}
+.latest-work h4{
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+.one-third{
+    width: 27%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.footer{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    height: 630px;
+    background-size: 100% 100%;
+}
+.footer-in{
+    margin-top: 37%;
+}
+.give-messege{
+    height: 100px;
+    width: 550px;
+    background-color: rgb(236, 63,121);
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+.client{
+    padding-bottom: 30px;
+}
+.text{
+    width: 350px;
+    display: block;
+    margin-left: 510px;
+    padding-top: 10px;
+    font-size: 17px;
+}
+.give-messege p{
+    color: #fff;
+    margin-top: px;
+}
+.copyright{
+    text-align: center;
+    font-size: 12px;
+}
