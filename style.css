@@ -93,8 +93,7 @@ p{
 }
 .text{
     width: 350px;
-    display: block;
-    margin-left: 510px;
+    margin: auto;
     padding-top: 10px;
     font-size: 17px;
 }
